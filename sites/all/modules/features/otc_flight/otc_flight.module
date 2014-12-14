@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the otc_flight feature.
+ */
+
+include_once 'otc_flight.features.inc';
